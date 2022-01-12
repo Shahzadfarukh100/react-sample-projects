@@ -1,0 +1,12 @@
+import logo from './logo.svg';
+import './App.css';
+
+import Comments from './components/comments';
+
+function App() {
+  return (
+    <Comments></Comments>
+  );
+}
+
+export default App;
